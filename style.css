@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    height: 50px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    color: darkblue;
+}
+header a{
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    border: 5px solid darkblue;
+    margin: 10px;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    color: orangered;
+    border: 2px solid purple;
+    border-radius: 15px;
+}
+footer p{
+    border: 10px solid pink;
+    margin: 1px;
+}
+nav a{
+    background-color: darkblue;
+    border: 1px solid darkblue;
+    color: white;
+    border-radius: 15px;
+    padding:5px;
+    text-decoration: none;
+    
+}
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+.hello{
+     background-color: white;
+    border: 2px solid darkblue;
+    color: darkblue;
+    border-radius: 15px;
+    padding:5px;
+    text-decoration: none; 
+}
+.hell{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   border:5px solid darkblue;
+    border-radius: 10px;
+}
+.hel{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   border:5px solid darkblue;
+    border-radius: 10px;
+}
+.he{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   border:5px solid darkblue;
+    border-radius: 10px;
+}
+.h{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:5px solid darkblue;
+    border-radius: 10px;
+}
